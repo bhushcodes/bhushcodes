@@ -70,15 +70,6 @@
 
 ---
 
-## 📊 GitHub Pulse
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushcodes&show_icons=true&theme=radical&hide_border=true" alt="Bhushan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhushcodes&theme=radical&hide_border=true" alt="Bhushan's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushcodes&layout=compact&theme=radical&hide_border=true" alt="Bhushan's top languages" />
-</div>
-
----
-
 ## 📝 Writing & Notes
 - **Prompt Library:** Bite-sized explanations for friends and future-me → [`prompt-library`](https://github.com/bhushcodes/prompt-library)
 - **Java Notes:** Core concepts, cheat-sheets, and interview prep → [`java-notes`](https://github.com/bhushcodes/java-notes)
