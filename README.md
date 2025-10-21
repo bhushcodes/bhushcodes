@@ -4,9 +4,21 @@
   <h3>CS grad student · Web & iOS developer · Pune, India</h3>
   <p>Crafting playful interfaces, shipping community tools, and learning Swift one build at a time.</p>
   <p>
-    <a href="https://bhushan-pawar.vercel.app" target="_blank">Portfolio ↗</a> ·
-    <a href="https://twitter.com/bhushcodes" target="_blank">X (Twitter)</a> ·
-    <a href="https://linkedin.com/in/bhushcodes" target="_blank">LinkedIn</a>
+    <a href="https://bhushan-pawar.vercel.app" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" width="36" height="36" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/bhushcodes" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="36" height="36" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/bhushcodes/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/unfiltered.bhushan/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="36" height="36" alt="Instagram" />
+    </a>
+    <a href="https://x.com/bhushcodes" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="36" height="36" alt="X" />
+    </a>
   </p>
 </div>
 
@@ -83,11 +95,24 @@
 
 ## 🤝 Connect with Me
 <div align="center">
-  <a href="mailto:bhushanpawar1800@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/bhushcodes" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/bhushcodes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/unfiltered.bhushan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://bhushcodes.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:bhushanpawar1800@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" alt="Email" />
+  </a>
+  <a href="https://bhushan-pawar.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" width="40" height="40" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/bhushcodes" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhushcodes/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/unfiltered.bhushan/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" alt="Instagram" />
+  </a>
+  <a href="https://x.com/bhushcodes" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40" height="40" alt="X" />
+  </a>
 </div>
 
 <div align="center">
