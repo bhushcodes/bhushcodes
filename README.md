@@ -3,43 +3,6 @@
   <h1>Hey, I'm Bhushan Pawar 👋</h1>
   <h3>CS grad student · Web & iOS developer · Pune, India</h3>
   <p>Crafting playful interfaces, shipping community tools, and learning Swift one build at a time.</p>
-  <p>
-    <a href="https://bhushan-pawar.vercel.app" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/vercel.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/vercel.svg" />
-        <img src="./assets/icons/light/vercel.svg" width="36" height="36" alt="Portfolio" />
-      </picture>
-    </a>
-    <a href="https://github.com/bhushcodes" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/github.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/github.svg" />
-        <img src="./assets/icons/light/github.svg" width="36" height="36" alt="GitHub" />
-      </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/bhushcodes/" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/linkedin.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/linkedin.svg" />
-        <img src="./assets/icons/light/linkedin.svg" width="36" height="36" alt="LinkedIn" />
-      </picture>
-    </a>
-    <a href="https://www.instagram.com/unfiltered.bhushan/" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/instagram.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/instagram.svg" />
-        <img src="./assets/icons/light/instagram.svg" width="36" height="36" alt="Instagram" />
-      </picture>
-    </a>
-    <a href="https://x.com/bhushcodes" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/x.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/x.svg" />
-        <img src="./assets/icons/light/x.svg" width="36" height="36" alt="X" />
-      </picture>
-    </a>
-  </p>
 </div>
 
 ---
