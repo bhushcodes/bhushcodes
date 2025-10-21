@@ -5,19 +5,39 @@
   <p>Crafting playful interfaces, shipping community tools, and learning Swift one build at a time.</p>
   <p>
     <a href="https://bhushan-pawar.vercel.app" target="_blank" rel="noreferrer">
-      <img src="./assets/icons/vercel.svg" width="36" height="36" alt="Portfolio" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/vercel.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/vercel.svg" />
+        <img src="./assets/icons/light/vercel.svg" width="36" height="36" alt="Portfolio" />
+      </picture>
     </a>
     <a href="https://github.com/bhushcodes" target="_blank" rel="noreferrer">
-      <img src="./assets/icons/github.svg" width="36" height="36" alt="GitHub" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/github.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/github.svg" />
+        <img src="./assets/icons/light/github.svg" width="36" height="36" alt="GitHub" />
+      </picture>
     </a>
     <a href="https://www.linkedin.com/in/bhushcodes/" target="_blank" rel="noreferrer">
-      <img src="./assets/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/linkedin.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/linkedin.svg" />
+        <img src="./assets/icons/light/linkedin.svg" width="36" height="36" alt="LinkedIn" />
+      </picture>
     </a>
     <a href="https://www.instagram.com/unfiltered.bhushan/" target="_blank" rel="noreferrer">
-      <img src="./assets/icons/instagram.svg" width="36" height="36" alt="Instagram" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/instagram.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/instagram.svg" />
+        <img src="./assets/icons/light/instagram.svg" width="36" height="36" alt="Instagram" />
+      </picture>
     </a>
     <a href="https://x.com/bhushcodes" target="_blank" rel="noreferrer">
-      <img src="./assets/icons/x.svg" width="36" height="36" alt="X" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/x.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/x.svg" />
+        <img src="./assets/icons/light/x.svg" width="36" height="36" alt="X" />
+      </picture>
     </a>
   </p>
 </div>
@@ -87,22 +107,46 @@
 ## 🤝 Connect with Me
 <div align="center">
   <a href="mailto:bhushanpawar1800@gmail.com" target="_blank" rel="noreferrer">
-    <img src="./assets/icons/gmail.svg" width="40" height="40" alt="Email" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/gmail.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/gmail.svg" />
+      <img src="./assets/icons/light/gmail.svg" width="40" height="40" alt="Email" />
+    </picture>
   </a>
   <a href="https://bhushan-pawar.vercel.app" target="_blank" rel="noreferrer">
-    <img src="./assets/icons/vercel.svg" width="40" height="40" alt="Portfolio" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/vercel.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/vercel.svg" />
+      <img src="./assets/icons/light/vercel.svg" width="40" height="40" alt="Portfolio" />
+    </picture>
   </a>
   <a href="https://github.com/bhushcodes" target="_blank" rel="noreferrer">
-    <img src="./assets/icons/github.svg" width="40" height="40" alt="GitHub" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/github.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/github.svg" />
+      <img src="./assets/icons/light/github.svg" width="40" height="40" alt="GitHub" />
+    </picture>
   </a>
   <a href="https://www.linkedin.com/in/bhushcodes/" target="_blank" rel="noreferrer">
-    <img src="./assets/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/linkedin.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/linkedin.svg" />
+      <img src="./assets/icons/light/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    </picture>
   </a>
   <a href="https://www.instagram.com/unfiltered.bhushan/" target="_blank" rel="noreferrer">
-    <img src="./assets/icons/instagram.svg" width="40" height="40" alt="Instagram" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/instagram.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/instagram.svg" />
+      <img src="./assets/icons/light/instagram.svg" width="40" height="40" alt="Instagram" />
+    </picture>
   </a>
   <a href="https://x.com/bhushcodes" target="_blank" rel="noreferrer">
-    <img src="./assets/icons/x.svg" width="40" height="40" alt="X" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/x.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/light/x.svg" />
+      <img src="./assets/icons/light/x.svg" width="40" height="40" alt="X" />
+    </picture>
   </a>
 </div>
 
